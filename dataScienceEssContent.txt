@@ -1,0 +1,5 @@
+02_01_begin:
+	pd series and df construction
+	data selection, retrieve, compare and setting in seri and df 
+02_02:
+	figure out, fill, count and drop Nan values in a DF obj
