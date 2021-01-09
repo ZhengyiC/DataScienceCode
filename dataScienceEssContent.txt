@@ -3,3 +3,14 @@
 	data selection, retrieve, compare and setting in seri and df 
 02_02:
 	figure out, fill, count and drop Nan values in a DF obj
+02_03:
+	drop duplicates (drop rows) for rows that contains elements that are duplicates of previous rows' element in the same column index 
+02_04:
+	concate df obj by row and by col (concat, join and append functions)
+		cat with index intact or changed 
+	drop rows and columns
+	sort by columns 
+02_05:
+	read csv files with pd function and add col names 
+	create sub group obj 
+		cal mean values of other variables for each group
