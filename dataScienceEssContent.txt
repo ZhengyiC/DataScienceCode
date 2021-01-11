@@ -14,3 +14,12 @@
 	read csv files with pd function and add col names 
 	create sub group obj 
 		cal mean values of other variables for each group
+
+Chapter 04
+
+#1:
+	make line, pie and bar charts from matplotlib.pyplt and pd objs
+#2:
+	create fig and axis obj
+	set axis limit and ticks
+	create subplots 
