@@ -23,3 +23,7 @@ Chapter 04
 	create fig and axis obj
 	set axis limit and ticks
 	create subplots 
+#3:
+	plot styles: marker, line style, color theme, bar width
+#4:
+	x,y axis labels, pie chart region label (list), 
