@@ -15,7 +15,7 @@
 	create sub group obj 
 		cal mean values of other variables for each group
 
-Chapter 04
+Chapter 04 Visualization 
 
 #1:
 	make line, pie and bar charts from matplotlib.pyplt and pd objs
@@ -27,3 +27,27 @@ Chapter 04
 	plot styles: marker, line style, color theme, bar width
 #4:
 	x,y axis labels, pie chart region label (list), 
+#5:
+	make time series plot 
+	read from csv, parse_dates set True, index variables by a specific column 
+	use df obj's plot function to make matplotlib plots 
+#6:
+	histogram, scatter plot, boxplot and pairplots using seaborn, pandas and plt 
+
+Chapter 05 Math and Statistics 
+	
+#1, #2:
+	element-wise arithmetics
+	mtrix element-wise multiplicatoin and division
+	dot product
+	set print precision (digit after decimal)
+#3:
+	output important descriptive statistics: mean, median, count, sum, max, max index, 
+	calc the statistics along rows or columns
+	for spread: stdev, variance 
+	or generate all important statistics: dfObj.describe()
+#4: 
+	create categorical datatype and add to the df obj
+	group by a certain var and gen the statistical summaries 
+	crosstab table
+	
