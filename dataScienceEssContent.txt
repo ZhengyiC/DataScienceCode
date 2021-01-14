@@ -50,4 +50,25 @@ Chapter 05 Math and Statistics
 	create categorical datatype and add to the df obj
 	group by a certain var and gen the statistical summaries 
 	crosstab table
+#5:
+	pearson correlation calc between variables 
+	pearson test application and requirements 
+	corr() mth to shortcut compute pearson coeff between several varis
+	heatmap to show correlations 
+#6
+	find correlation between ordinal variables 
+	spearman rank coeff
+	chi-square test 
+#7 (transformation)
+	normalizaing observations values between a certain range
+		use sklearn's prepossesing() mth
+	standardizing values to mean=0, stdev = 1 
+		use sklean's scale() mth
+#8
+	detect outlier using df.boxplot() method 
+		print out the plot and visually observe if outliers present
+	calculate outliers from dfobj.describe() mth
+#9 
+	multivariate outlier detection
+	use pairplot and hue arg to print a category with variables differeciated by colors 
 	
