@@ -71,4 +71,9 @@ Chapter 05 Math and Statistics
 #9 
 	multivariate outlier detection
 	use pairplot and hue arg to print a category with variables differeciated by colors 
+Chapter 06
+	use BeatifulSoup module to parse html documents 
+#4
+	read data from web page using urllib.urlopen("addr").read()
+	scrape all link from a web page (or any other tags) 
 	
