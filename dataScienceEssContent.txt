@@ -76,4 +76,7 @@ Chapter 06
 #4
 	read data from web page using urllib.urlopen("addr").read()
 	scrape all link from a web page (or any other tags) 
+#5
+	natural language processing 
+	word and sentence tokenizing from a string 
 	
