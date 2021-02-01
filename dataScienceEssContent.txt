@@ -79,4 +79,8 @@ Chapter 06
 #5
 	natural language processing 
 	word and sentence tokenizing from a string 
-	
+#6
+	extract stop words from a sentence and remove the stop words
+	change words in a sentence to their stem words or lemmatized words
+	identify the tag (object, verb, subject...) of words in a sentence (word-tokenized string)
+	word and alphabet distribution 
