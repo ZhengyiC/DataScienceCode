@@ -84,3 +84,9 @@ Chapter 06
 	change words in a sentence to their stem words or lemmatized words
 	identify the tag (object, verb, subject...) of words in a sentence (word-tokenized string)
 	word and alphabet distribution 
+
+Chapter 07
+#2
+	chart studio /plotly import and login
+	use chart studio to make iplot
+	use data frame to make iplot 
