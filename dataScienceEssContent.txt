@@ -90,3 +90,4 @@ Chapter 07
 	chart studio /plotly import and login
 	use chart studio to make iplot
 	use data frame to make iplot 
+	make line, bar and pir chart from plotly
